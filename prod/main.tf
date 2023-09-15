@@ -13,7 +13,7 @@ provider "aws" {
     default_tags{
         tags = {
             Owner = "Breno Moreira"
-            Env = "Producao"
+            Env = "Prod"
             Class = "CLC10"
         }
     }
